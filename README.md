@@ -1,2 +1,5 @@
 # ML-AD
-Integrative Machine Learning-Driven Discovery of Mitochondrial Multi-Omics Biomarkers in Alzheimer's Disease
+Innovative insights into mitochondrial signatures in Alzheimer's disease through integrated multi-omics and machine learning
+
+Alzheimer's disease (AD) stands as a significant global health challenge, with its progressive nature and the profound impact on affected individuals and society. While the involvement of mitochondrial dysfunction in AD has been increasingly acknowledged, the precise molecular mechanisms have remained elusive. Our study addresses this gap by pioneering an integrated multi-omics analysis coupled with sophisticated machine learning techniques, offering a comprehensive view of the mitochondrial contributions to AD.
+Our approach transcends traditional single-omics studies by harnessing a diverse array of datasets, which has allowed us to identify key mitochondrial-related biomarkers with high significance in AD pathogenesis. The innovative integration of mitochondrial-related polygenic risk scores (PRSs) into our model has notably improved its predictive capabilities, a testament to the power of our methodological innovation.
